@@ -12,8 +12,6 @@ final class OneTimePasswordGenerator implements GeneratorContract
     /**
      * Generate a One Time Password code.
      *
-     * @param  int|null  $length
-     * @return string
      *
      * @throws Exception
      */
